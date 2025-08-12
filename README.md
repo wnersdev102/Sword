@@ -1,4 +1,4 @@
-```
+
 
 **Sword Privacy Policy**
 
@@ -38,5 +38,3 @@ You have the right to request the deletion of your data. Here's how:
 If you have any questions or need assistance, feel free to contact us through our support Discord server.
 
 Thank you for trusting Sword with your server management needs.
-
-```
