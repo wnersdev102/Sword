@@ -1,4 +1,4 @@
-```py
+```
 
 **Sword Privacy Policy**
 
