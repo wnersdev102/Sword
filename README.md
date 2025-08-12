@@ -25,7 +25,7 @@ If Sword is removed from a server, data collection for that server will cease im
 ### Data Disclosure
 Your data is important to us, and we do not share it with third parties, except:
 
-- **Online Database:** We use MongoDB to store Rxmlo's data securely. You can refer to MongoDB's Privacy Policy for more details.
+- **Online Database:** We use MongoDB to store Sword's data securely. You can refer to MongoDB's Privacy Policy for more details.
 
 ### Data Deletion
 You have the right to request the deletion of your data. Here's how:
